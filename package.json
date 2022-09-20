@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "package.js": "^1.1.3"
+  },
+  "name": "orai_munka_20220915",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "https://github.com/dkotai66/orai-munka-2022-09-15.git"
+  },
+  "author": "Kótai Dániel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkotai66/orai-munka-2022-09-15/issues"
+  },
+  "homepage": "https://github.com/dkotai66/orai-munka-2022-09-15#readme",
+  "description": ""
+}
